@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b9354a38a5e35d46bd02ce7293c1116, type: 3}
+  m_Name: RawSausage
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 5830259474799273346, guid: 64a1d0e0356b7144a8f6fed5f17c170d, type: 3}
+  sprite: {fileID: 0}
+  objectName: Raw Sausage

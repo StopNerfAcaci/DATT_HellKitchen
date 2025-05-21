@@ -1,0 +1,550 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My game\\Kitchen2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|d:\\my game\\kitchen2\\assets\\scripts\\player\\playeragent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeragent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|d:\\my game\\kitchen2\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\multiplayer\\kitchengamemultiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\multiplayer\\kitchengamemultiplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\managers\\kitchengamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\kitchengamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\ui\\pausemultiplayerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\pausemultiplayerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\ui\\gamepauseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gamepauseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\managers\\resetstaticdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\resetstaticdatamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\counter\\cuttingcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counter\\cuttingcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\counter\\selectcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counter\\selectcountervisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My game\\Kitchen2\\Library\\PackageCache\\com.unity.netcode.gameobjects@1.12.2\\Runtime\\Messaging\\Messages\\RpcMessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.netcode.gameobjects@1.12.2\\Runtime\\Messaging\\Messages\\RpcMessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\ui\\levelbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\levelbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\managers\\levelselectmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\levelselectmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My game\\Kitchen2\\Library\\PackageCache\\com.unity.netcode.gameobjects@1.12.2\\Runtime\\Core\\NetworkBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.netcode.gameobjects@1.12.2\\Runtime\\Core\\NetworkBehaviour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\player\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playeranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My game\\Kitchen2\\Library\\PackageCache\\com.unity.services.authentication@2.7.4\\Runtime\\AuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.services.authentication@2.7.4\\Runtime\\AuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\lobby\\kitchengamelobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lobby\\kitchengamelobby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\managers\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\player\\playersound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playersound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\ui\\lobbylistsinglei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\lobbylistsinglei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\ui\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\actions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\counter\\stovecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\counter\\stovecounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\My game\\Kitchen2\\Library\\PackageCache\\com.unity.netcode.gameobjects@1.12.2\\Runtime\\Logging\\NetworkLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.netcode.gameobjects@1.12.2\\Runtime\\Logging\\NetworkLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\ui\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\ui\\lobbymessageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\lobbymessageui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\multiplayer\\lobbyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\multiplayer\\lobbyui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\multiplayer\\characterselectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\multiplayer\\characterselectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\ui\\connectingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\connectingui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\characterselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\characterselect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\player\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\managers\\characterselectready.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\managers\\characterselectready.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|D:\\My game\\Kitchen2\\assets\\scripts\\ui\\characterselectcolorsingleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59301CB7-6923-7F22-99BB-79268A89C471}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\characterselectcolorsingleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerAgent.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Player\\PlayerAgent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAgent.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Player\\PlayerAgent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAgent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:39:47.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PauseMultiplayerUI.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\UI\\PauseMultiplayerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PauseMultiplayerUI.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\UI\\PauseMultiplayerUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PauseMultiplayerUI.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T05:22:54.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResetStaticDataManager.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Managers\\ResetStaticDataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\ResetStaticDataManager.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Managers\\ResetStaticDataManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\ResetStaticDataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T08:34:00.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RpcMessages.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Library\\PackageCache\\com.unity.netcode.gameobjects@1.12.2\\Runtime\\Messaging\\Messages\\RpcMessages.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.netcode.gameobjects@1.12.2\\Runtime\\Messaging\\Messages\\RpcMessages.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Library\\PackageCache\\com.unity.netcode.gameobjects@1.12.2\\Runtime\\Messaging\\Messages\\RpcMessages.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.netcode.gameobjects@1.12.2\\Runtime\\Messaging\\Messages\\RpcMessages.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwE8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T05:22:06.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LevelButton.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\UI\\LevelButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\LevelButton.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\UI\\LevelButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\LevelButton.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:53:52.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KitchenGameMultiplayer.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Multiplayer\\KitchenGameMultiplayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Multiplayer\\KitchenGameMultiplayer.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Multiplayer\\KitchenGameMultiplayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Multiplayer\\KitchenGameMultiplayer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwGAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:48:00.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KitchenGameManager.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Managers\\KitchenGameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\KitchenGameManager.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Managers\\KitchenGameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\KitchenGameManager.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAtwEkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:06:50.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA2wDsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:50:10.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GamePauseUI.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\UI\\GamePauseUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GamePauseUI.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\UI\\GamePauseUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GamePauseUI.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:52:52.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CuttingCounter.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Counter\\CuttingCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counter\\CuttingCounter.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Counter\\CuttingCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counter\\CuttingCounter.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAqwFkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:01:55.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LevelSelectMenu.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Managers\\LevelSelectMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\LevelSelectMenu.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Managers\\LevelSelectMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\LevelSelectMenu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:36:13.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SelectCounterVisual.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Counter\\SelectCounterVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counter\\SelectCounterVisual.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Counter\\SelectCounterVisual.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counter\\SelectCounterVisual.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA4wEEAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T02:43:47.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NetworkBehaviour.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Library\\PackageCache\\com.unity.netcode.gameobjects@1.12.2\\Runtime\\Core\\NetworkBehaviour.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.netcode.gameobjects@1.12.2\\Runtime\\Core\\NetworkBehaviour.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Library\\PackageCache\\com.unity.netcode.gameobjects@1.12.2\\Runtime\\Core\\NetworkBehaviour.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.netcode.gameobjects@1.12.2\\Runtime\\Core\\NetworkBehaviour.cs",
+              "ViewState": "AgIAAJkCAAAAAAAAAAAuwLgCAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:56:04.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerAnimation.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerAnimation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:37:13.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Library\\PackageCache\\com.unity.services.authentication@2.7.4\\Runtime\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.services.authentication@2.7.4\\Runtime\\AuthenticationService.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Library\\PackageCache\\com.unity.services.authentication@2.7.4\\Runtime\\AuthenticationService.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.services.authentication@2.7.4\\Runtime\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:35:32.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Loader.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Loader.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Loader.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Loader.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Loader.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwCUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:14:34.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KitchenGameLobby.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Lobby\\KitchenGameLobby.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Lobby\\KitchenGameLobby.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Lobby\\KitchenGameLobby.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Lobby\\KitchenGameLobby.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwCYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:25:31.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlayerSound.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Player\\PlayerSound.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerSound.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Player\\PlayerSound.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerSound.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:05:25.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GameOverUI.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\UI\\GameOverUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\GameOverUI.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\UI\\GameOverUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\GameOverUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T01:33:06.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Managers\\DataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\DataManager.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Managers\\DataManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\DataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T01:32:55.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StoveCounter.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Counter\\StoveCounter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Counter\\StoveCounter.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Counter\\StoveCounter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Counter\\StoveCounter.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAvwHkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:41:49.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LobbyListSingleI.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\UI\\LobbyListSingleI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\LobbyListSingleI.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\UI\\LobbyListSingleI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\LobbyListSingleI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:35:43.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\UI\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\MainMenuUI.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\UI\\MainMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\MainMenuUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:31:53.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NetworkLog.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Library\\PackageCache\\com.unity.netcode.gameobjects@1.12.2\\Runtime\\Logging\\NetworkLog.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.netcode.gameobjects@1.12.2\\Runtime\\Logging\\NetworkLog.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Library\\PackageCache\\com.unity.netcode.gameobjects@1.12.2\\Runtime\\Logging\\NetworkLog.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.netcode.gameobjects@1.12.2\\Runtime\\Logging\\NetworkLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwCEAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T09:40:18.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Actions.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Actions.cs",
+              "RelativeDocumentMoniker": "Assets\\Actions.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Actions.cs",
+              "RelativeToolTip": "Assets\\Actions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:13:12.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LobbyUI.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Multiplayer\\LobbyUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Multiplayer\\LobbyUI.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Multiplayer\\LobbyUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Multiplayer\\LobbyUI.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAtwEsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T13:38:19.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LobbyMessageUI.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\UI\\LobbyMessageUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\LobbyMessageUI.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\UI\\LobbyMessageUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\LobbyMessageUI.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwFQAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:08:53.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CharacterSelectReady.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Managers\\CharacterSelectReady.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Managers\\CharacterSelectReady.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Managers\\CharacterSelectReady.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Managers\\CharacterSelectReady.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T01:26:55.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CharacterSelectUI.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Multiplayer\\CharacterSelectUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Multiplayer\\CharacterSelectUI.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Multiplayer\\CharacterSelectUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Multiplayer\\CharacterSelectUI.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:21:35.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConnectingUI.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\UI\\ConnectingUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ConnectingUI.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\UI\\ConnectingUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ConnectingUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:25:04.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CharacterSelect.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\CharacterSelect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CharacterSelect.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\CharacterSelect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CharacterSelect.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAvwBUAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:49:27.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Player\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerData.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\Player\\PlayerData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:51:22.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CharacterSelectColorSingleUI.cs",
+              "DocumentMoniker": "D:\\My game\\Kitchen2\\Assets\\Scripts\\UI\\CharacterSelectColorSingleUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\CharacterSelectColorSingleUI.cs",
+              "ToolTip": "D:\\My game\\Kitchen2\\Assets\\Scripts\\UI\\CharacterSelectColorSingleUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\CharacterSelectColorSingleUI.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAawCEAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:35:07.457Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
